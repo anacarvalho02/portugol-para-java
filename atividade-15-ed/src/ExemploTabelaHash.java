@@ -32,7 +32,7 @@ public class ExemploTabelaHash {
 
         System.out.println("4. REMOVENDO ELEMENTOS:");
         minhaTabela.remover(31);
-        minhaTabela.remover(99); // Chave que não existe
+        minhaTabela.remover(99); 
         minhaTabela.remover(88);
         System.out.println();
 
